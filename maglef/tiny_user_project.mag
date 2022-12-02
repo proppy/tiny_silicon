@@ -1,7 +1,7 @@
 magic
 tech gf180mcuC
 magscale 1 5
-timestamp 1669353889
+timestamp 1669942532
 << obsm1 >>
 rect 672 855 24304 23225
 << metal2 >>
@@ -92,8 +92,7 @@ rect 20582 24570 21474 24682
 rect 21590 24570 22482 24682
 rect 22598 24570 23154 24682
 rect 23270 24570 24162 24682
-rect 24278 24570 24570 24682
-rect 14 430 24570 24570
+rect 14 430 24234 24570
 rect 86 345 642 430
 rect 758 345 1650 430
 rect 1766 345 2322 430
@@ -121,7 +120,7 @@ rect 20246 345 21138 430
 rect 21254 345 21810 430
 rect 21926 345 22818 430
 rect 22934 345 23826 430
-rect 23942 345 24498 430
+rect 23942 345 24234 430
 << metal3 >>
 rect 100 24528 400 24584
 rect 24600 24192 24900 24248
@@ -562,8 +561,8 @@ port 116 nsew ground bidirectional
 string FIXED_BBOX 0 0 25000 25000
 string LEFclass BLOCK
 string LEFview TRUE
-string GDS_END 388142
-string GDS_FILE /home/runner/work/tiny_silicon/tiny_silicon/openlane/tiny_user_project/runs/22_11_25_05_23/results/signoff/tiny_user_project.magic.gds
-string GDS_START 81438
+string GDS_END 318490
+string GDS_FILE /home/runner/work/tiny_user_project/tiny_user_project/openlane/tiny_user_project/runs/22_12_02_00_54/results/signoff/tiny_user_project.magic.gds
+string GDS_START 48106
 << end >>
 
